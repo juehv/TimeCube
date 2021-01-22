@@ -21,4 +21,4 @@ TODO
 Feel free to contribute issues or pull requests.
 
 ## License
-[https://creativecommons.org/licenses/by-sa/3.0/](https://creativecommons.org/licenses/by-sa/3.0/)
+[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
